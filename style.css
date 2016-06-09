@@ -1,0 +1,49 @@
+body {
+  background: #818AA3;
+  color: #818AA3;
+}
+
+#quotebox {
+  position: relative;
+  border-radius: 3px;
+  position: relative;
+  margin: 8% auto auto auto;
+  width: 450px;
+  padding: 25px 50px;
+  display: table;
+  background-color: #fff;
+}
+
+#title {
+  text-align: center;
+}
+
+#quote-button {
+  background-color: #A491D3;
+  color: white;
+  display: inline-block;
+  margin-left: 10px;
+}
+
+#wrapper {
+  display: none;
+  margin-top: 25px;
+  width: 450px;
+}
+
+#quote {
+  font-style: italic;
+  font-size: 18px;
+  color: green;
+}
+
+#tweet {
+  display: none;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#tweet a {
+  text-decoration: none;
+  color: green;
+}
